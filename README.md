@@ -1,6 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
-
-<br>
+<div align="center"><a href="#"><img width="450" height="300" src="https://github.com/Gokul-prasanna19/Gokul-prasanna19/blob/main/code.gif"/></a></div>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Gokul-prasanna19&label=Profile%20views&color=0e75b6&style=flat" alt="Gokula Prasanna" />
 </p>

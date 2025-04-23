@@ -2,18 +2,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Gokul-prasanna19&label=Profile%20views&color=0e75b6&style=flat" alt="Gokula Prasanna" />
 </p>
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gokula Prasanna</h1>
 <h3 align="center">I'm a Software Developer 👨‍💻</h3>
-
 - 📫 Reach me at: **kgokulaprasanna@gmail.com** <!-- (Update with your real email if you'd like) -->
-
 ---
-
-
 ## 🚀 Languages and Tools:
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" title="Vue.js"/>
@@ -33,24 +26,17 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" title="GitHub"/>
 </p>
-
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-prasanna19&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gokul-prasanna19&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-prasanna19&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
-
 ---
-
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gokul-prasanna19&column=10&theme=onedark"/>
 </p>
